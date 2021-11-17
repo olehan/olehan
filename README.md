@@ -2,4 +2,4 @@
 | | |
 | --- | --- |
 | [**@azimutlabs/rollup**](https://github.com/azimutlabs/rollup) | 🍣 Rollup configurations for the best package bundling experience |
-| [**@azimutlabs/eslint**](https://github.com/azimutlabs/rollup) | ✨ ESLint configurations and code-style guidelines |
+| [**@azimutlabs/eslint**](https://github.com/azimutlabs/eslint) | ✨ ESLint configurations and code-style guidelines |
